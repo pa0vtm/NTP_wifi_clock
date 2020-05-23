@@ -11,7 +11,7 @@ It finds it's use in a HAM-radio operator shack, providing  a reference clock fo
 
 The code is work in progress...
 
-Feel free to copy, use, comment the code without commerical intent.
+Feel free to copy, use, comment the code without commercial intent.
 
 Kind regards,
 
